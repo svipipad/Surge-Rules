@@ -1,0 +1,49 @@
+# Apple 全家桶 & Apple Intelligence (全量走代理)
+
+# --- Apple AI (Apple Intelligence / Siri) ---
+DOMAIN-KEYWORD,apple-intelligence
+DOMAIN-SUFFIX,apple-intelligence.com
+DOMAIN,api.smoothknowledge.com
+DOMAIN,guzzoni.apple.com
+
+# --- Private Relay (苹果专用代理 / iCloud 代理) ---
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,gateway.icloud.com
+
+# --- App Store / CDN 媒体资源 ---
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,appstore.com
+
+# --- Apple 核心域名全量覆盖 ---
+DOMAIN-KEYWORD,apple
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,organicfruitapps.com
+
+# --- 地图、定位与推送服务 ---
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+
+# --- macOS / iOS 系统进程全量代理 ---
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,apsd
+PROCESS-NAME,fmfd
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
