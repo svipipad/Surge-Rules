@@ -1,0 +1,35 @@
+DOMAIN-SUFFIX,microsoft.com          # 微软主域名，几乎所有服务都依赖
+DOMAIN-SUFFIX,live.com               # 微软账户、Hotmail、Outlook 等核心服务
+DOMAIN-SUFFIX,office.com             # Office 在线服务入口
+DOMAIN-SUFFIX,office365.com          # Office 365 / Microsoft 365 服务
+DOMAIN-SUFFIX,bing.com               # 必应搜索，与 Copilot 强相关
+DOMAIN-SUFFIX,copilot.microsoft.com  # 个人版 Microsoft Copilot 主站
+DOMAIN-SUFFIX,msftauth.net           # 微软认证服务（登录相关）
+DOMAIN-SUFFIX,azure.com              # Azure 云服务
+DOMAIN-SUFFIX,azureedge.net          # Azure CDN
+DOMAIN-SUFFIX,windows.net            # Windows / Azure 相关服务
+
+# 建议新增
+DOMAIN-SUFFIX,msauth.net             # 微软认证服务（与 msftauth.net 配套）
+DOMAIN-SUFFIX,microsoftonline.com    # 微软登录与身份认证核心域名（非常重要）
+DOMAIN-SUFFIX,cloud.microsoft        # 微软新统一域名，Copilot 等服务正在迁移到此
+DOMAIN-SUFFIX,outlook.com            # Outlook 邮箱服务
+DOMAIN-SUFFIX,sharepoint.com         # SharePoint 文档协作
+DOMAIN-SUFFIX,onedrive.com           # OneDrive 云盘
+DOMAIN-SUFFIX,office.net             # Office 相关 CDN 与服务
+DOMAIN-SUFFIX,msn.com                # MSN / Bing 内容与服务
+DOMAIN-SUFFIX,azure.net              # Azure 服务扩展域名
+DOMAIN-SUFFIX,githubcopilot.com      # GitHub Copilot（AI 编程助手）
+DOMAIN-SUFFIX,aka.ms                 # 微软官方短链接服务
+DOMAIN-SUFFIX,msecnd.net             # 微软 CDN（内容分发）
+DOMAIN-SUFFIX,msedge.net             # Microsoft Edge 相关服务
+DOMAIN-SUFFIX,windows.com            # Windows 系统与服务
+DOMAIN-SUFFIX,onmicrosoft.com        # 微软租户默认域名（企业账户常用）
+DOMAIN-SUFFIX,live.net               # Live 服务相关
+DOMAIN-SUFFIX,msftauthimages.net     # 认证页面图片资源
+DOMAIN-SUFFIX,msauthimages.net       # 认证页面图片资源
+DOMAIN-SUFFIX,azurefd.net            # Azure Front Door（全球加速）
+DOMAIN-SUFFIX,trafficmanager.net     # Azure 流量管理服务
+DOMAIN-SUFFIX,visualstudio.com       # Visual Studio 开发工具
+DOMAIN-SUFFIX,skype.com              # Skype 通信服务
+DOMAIN-SUFFIX,hotmail.com            # Hotmail 邮箱（旧版仍在使用）
