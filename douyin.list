@@ -1,0 +1,42 @@
+; 字节系 / 抖音（直连）
+  
+DOMAIN-SUFFIX,bytedance.com       # 字节跳动主域名
+DOMAIN-SUFFIX,byteimg.com         # 图片 CDN
+DOMAIN-SUFFIX,amemv.com           # 抖音核心域名
+DOMAIN-SUFFIX,douyin.com          # 抖音主站
+DOMAIN-SUFFIX,snssdk.com          # 字节 SDK / API
+DOMAIN-SUFFIX,zijieapi.com        # 字节 API
+DOMAIN-SUFFIX,toutiao.com         # 今日头条
+
+# 建议补充 - 抖音核心 & CDN
+DOMAIN-SUFFIX,douyincdn.com       # 抖音 CDN
+DOMAIN-SUFFIX,douyinpic.com       # 抖音图片
+DOMAIN-SUFFIX,douyinstatic.com    # 抖音静态资源
+DOMAIN-SUFFIX,douyinvod.com       # 抖音视频点播
+DOMAIN-SUFFIX,douyinliving.com    # 抖音直播
+DOMAIN-SUFFIX,iesdouyin.com       # 抖音相关
+DOMAIN-SUFFIX,pstatp.com          # 字节静态资源（很重要）
+DOMAIN-SUFFIX,bytecdn.cn          # 字节 CDN
+DOMAIN-SUFFIX,zjcdn.com           # 字节 CDN
+
+# 建议补充 - 其他字节产品
+DOMAIN-SUFFIX,ixigua.com          # 西瓜视频
+DOMAIN-SUFFIX,huoshan.com         # 火山小视频 / 抖音火山版
+DOMAIN-SUFFIX,huoshanzhibo.com    # 火山直播
+DOMAIN-SUFFIX,volces.com          # 火山引擎
+DOMAIN-SUFFIX,volcengine.com      # 火山引擎
+DOMAIN-SUFFIX,feishu.cn           # 飞书
+DOMAIN-SUFFIX,feishu.net          # 飞书
+DOMAIN-SUFFIX,doubao.com          # 豆包 AI
+DOMAIN-SUFFIX,pipix.com           # 皮皮虾
+DOMAIN-SUFFIX,dongchedi.com       # 懂车帝
+DOMAIN-SUFFIX,qishui.com          # 汽水音乐
+DOMAIN-SUFFIX,bdurl.net           # 字节短链接
+
+# 可选补充（如果还想更全）
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaoimg.cn
+DOMAIN-SUFFIX,toutiaostatic.com
+DOMAIN-SUFFIX,zijiecdn.com
