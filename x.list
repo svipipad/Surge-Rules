@@ -1,0 +1,25 @@
+; X (Twitter) + Grok
+
+DOMAIN-SUFFIX,twitter.com          # X 旧主域名（仍大量使用）
+DOMAIN-SUFFIX,x.com                # X 新主域名
+DOMAIN-SUFFIX,t.co                 # X 短链接服务（非常重要）
+DOMAIN-SUFFIX,twimg.com            # 图片、视频、头像等 CDN（流量大头）
+
+# 建议补充 - X / Twitter 相关
+DOMAIN-SUFFIX,twimg.co             # twimg 备用域名
+DOMAIN-SUFFIX,twimg.org            # twimg 相关
+DOMAIN-SUFFIX,tweetdeck.com        # TweetDeck
+DOMAIN-SUFFIX,periscope.tv         # 直播相关（Periscope）
+DOMAIN-SUFFIX,pscp.tv              # 直播相关
+DOMAIN-SUFFIX,twitpic.com          # 旧图片服务
+DOMAIN-SUFFIX,vine.co              # Vine 相关
+DOMAIN-SUFFIX,ads-twitter.com      # 广告相关
+DOMAIN-SUFFIX,twtrdns.net          # DNS 相关
+DOMAIN-SUFFIX,twttr.com            # 旧 Twitter 域名
+DOMAIN-SUFFIX,twttr.net            # 旧 Twitter 域名
+DOMAIN-SUFFIX,twitter.jp           # 日本站
+
+# 建议补充 - Grok / xAI 相关
+DOMAIN-SUFFIX,grok.com             # Grok 主站（最重要）
+DOMAIN-SUFFIX,x.ai                 # xAI 官网
+DOMAIN-SUFFIX,grok.me              # Grok Build 生成的应用域名
