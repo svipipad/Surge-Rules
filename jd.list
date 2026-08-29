@@ -1,0 +1,48 @@
+; 京东完整版（直连）
+
+# ========== 核心主域名 ==========
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.cn
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdcdn.com
+DOMAIN-SUFFIX,jingdong.com
+
+# ========== 图片 / CDN 资源（非常重要） ==========
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,360buy.cn
+DOMAIN-SUFFIX,360buy.com.cn
+DOMAIN-SUFFIX,jdcache.com
+DOMAIN-SUFFIX,jcloudcdn.com
+DOMAIN-SUFFIX,jcloudstatic.com
+DOMAIN-SUFFIX,jcloudimg.com
+
+# ========== 京东云 / 技术服务 ==========
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jcloud.com
+DOMAIN-SUFFIX,jdcloudcs.com
+DOMAIN-SUFFIX,jcloudcs.com
+DOMAIN-SUFFIX,jcloudoss.com
+DOMAIN-SUFFIX,jcloudlive.com
+DOMAIN-SUFFIX,jcloudvideo.com
+DOMAIN-SUFFIX,jcloudedge.com
+DOMAIN-SUFFIX,jdgslb.com
+DOMAIN-SUFFIX,jcloudlb.com
+
+# ========== 支付 / 金融 ==========
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jdpaydns.com
+DOMAIN-SUFFIX,jdjinrong.com
+DOMAIN-SUFFIX,baitiao.com
+
+# ========== 物流 / 其他服务 ==========
+DOMAIN-SUFFIX,jdl.cn
+DOMAIN-SUFFIX,jdl.com
+DOMAIN-SUFFIX,jdwl.com
+DOMAIN-SUFFIX,7fresh.com
+DOMAIN-SUFFIX,jingxi.com
+DOMAIN-SUFFIX,jddj.com
+DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,3.cn
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,yihaodianimg.com
